@@ -40,7 +40,8 @@ cities = [
     ("Palo Alto", "CA", 37.4419, -122.1430),
     ("Tallahassee", "FL", 30.4383, -84.2807),
     ("San Francisco", "CA", 37.7749, -122.4194),
-    ("Boise", "ID", 43.6150, -116.2023)
+    ("Boise", "ID", 43.6150, -116.2023), 
+    ("Fajardo", "PR", 18.3384, -65.6563)
 ]
 
 # Add markers for each city
